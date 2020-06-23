@@ -27,7 +27,7 @@ The Graph Editor panel is the heart of the Blueprint system. It is here that you
 ![GraphEditor](https://docs.unrealengine.com/Images/Engine/Blueprints/Editor/UIComponents/GraphEditor/GraphEditor.webp)
 
 1. **Graph Area** - This is where you will actually lay out all of your nodes.
-
+z
 2. **Forward and Back Buttons** - These allow you to jump between different graphs very much as you would navigate a web browser.
 
 3. **Tabs area** - As you open different graphs, tabs for each one will open here, allowing you to quickly jump between different graphs.
@@ -97,3 +97,5 @@ Just like the above custom event i created 9 see the following images which I ha
 ### 10. **Destroy Session When Called**
 
 ![Destroy Session When Called](https://user-images.githubusercontent.com/67138369/85400918-c9861f00-b576-11ea-8b0a-1b79d7a6461e.png)
+
+This is the setup of a lot of script in there for our front end display.
